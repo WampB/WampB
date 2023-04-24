@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="idea">
+  <b>Idea: from business management to computer science.</b>
+</div>
+<div id="summary">
+  <b>Mostly for novices.</b>
+</div>
